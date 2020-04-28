@@ -9,4 +9,4 @@ end
 def using_pop(array)
  last_element = array.pop()
  last_element
-end  
+end

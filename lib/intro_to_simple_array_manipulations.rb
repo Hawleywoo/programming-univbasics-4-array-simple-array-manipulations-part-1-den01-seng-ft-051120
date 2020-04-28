@@ -15,3 +15,5 @@ def pop_with_args(array)
   last_two = array.pop(2)
   puts last_two
 end
+array = [1,2,3,4,5,6]
+pop_with_args(array)
